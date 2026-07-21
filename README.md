@@ -1,5 +1,5 @@
 # Synced Lyrics Display
-Synced Lyrics Display is a desktop application written in **Python** and **HTML/JS** that listens to whatever's playing on your speakers, identifies the song, and displays real-time synced lyrics in a clean, vinyl-record-style UI.
+Synced Lyrics Display is a desktop application written in **Python** and **HTML/JS** that listens to whatever's playing on your speakers, identifies the song, and displays real-time synced lyrics in a clean, Apple Music inspired UI.
 
 ---
 
