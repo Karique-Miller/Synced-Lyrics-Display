@@ -38,7 +38,7 @@ I made this project because I wanted a way to see the lyrics of songs I played o
 4. Building a polished, animation-heavy UI from scratch (no frameworks).  
 5. Working with external APIs (ACRCloud, iTunes, lyrics providers) and handling their failure cases gracefully.
 
-This project was especially useful for getting comfortable working with an html file and pythong file that need to talk to each other.
+This project was especially useful for getting comfortable working with an html file and python file that need to talk to each other.
 
 ---
 
